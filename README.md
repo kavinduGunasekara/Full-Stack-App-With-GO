@@ -1,7 +1,7 @@
 # Full-Stack Application with Go, Next.js, and PostgreSQL
 
 ## Overview 🎬
-This project guides you through building a full-stack application with a TypeScript-based frontend using Next.js, a Go backend, and a PostgreSQL database. The entire stack is containerized with Docker for streamlined deployment and scalability.
+This project  building a full-stack application with a TypeScript-based frontend using Next.js, a Go backend, and a PostgreSQL database. The entire stack is containerized with Docker for streamlined deployment and scalability.
 
 ---
 
